@@ -1,2 +1,2 @@
 # rsschool-cv
-https://DmitrijSergeev.github.io/rsschool-cv/cv
+https://[DmitrijSergeev](https://github.com/DmitrijSergeev).github.io/rsschool-cv/cv
